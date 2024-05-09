@@ -7,3 +7,5 @@ PIL
 streamlit
 tqdm 
 pickle
+
+https://www.youtube.com/watch?v=xanJe6e8Xuw
