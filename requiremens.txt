@@ -1,0 +1,9 @@
+pickle
+tensorflow
+numpy
+sklearn
+opencv-python
+PIL
+streamlit
+tqdm 
+pickle
